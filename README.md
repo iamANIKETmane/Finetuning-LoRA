@@ -64,6 +64,16 @@ The full training and evaluation pipeline is documented in the Jupyter notebook:
 - **Gradient Accumulation Steps**: 2
 
 ---
+## 📈 Training Metrics
+
+### 🔻 Training Loss Curve
+
+![Training Loss](https://github.com/iamANIKETmane/Finetuning-LoRA/raw/main/trainingLoss.png)
+
+### ✅ Validation Accuracy Over Epochs
+
+![Validation Accuracy](https://github.com/iamANIKETmane/Finetuning-LoRA/raw/main/ValidationAccuracy.png)
+
 
 ## 💡 Key Insights
 
